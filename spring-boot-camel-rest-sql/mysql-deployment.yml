@@ -54,3 +54,4 @@ spec:
       - name: mysql-data
         emptyDir:
           medium:
+          
